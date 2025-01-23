@@ -5,3 +5,5 @@ Repository containing implementations of popular networks.
 - VGG-16
 - VGG-19
 - FCN
+- U-Net
+- Vision Transformer
